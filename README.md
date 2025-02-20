@@ -20,4 +20,4 @@ Se deseja modificar ou rodar o projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório** usando o Git:  
    ```sh
-   git clone https://github.com/seu-usuario/deepseek-assistant.git
+   git clone https://github.com/candrecf/deepseek-assistant.git
